@@ -44,7 +44,16 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RUAMELHEM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RUAMELHEM&theme=tokyonight&no-frame=true&column=4" alt="Trophies" />
+</p>
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RUAMELHEM&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 <p align="center">
   <i>"Vision is the art of seeing what is invisible to others."</i>
