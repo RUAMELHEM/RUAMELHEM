@@ -41,9 +41,11 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RUAMELHEM&show_icons=true&theme=tokyonight&count_private=true" alt="Rua's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUAMELHEM&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/report/get-badges?username=RUAMELHEM&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/report/top-languages?username=RUAMELHEM&theme=tokyonight" width="48%" />
 </p>
 
 ---
