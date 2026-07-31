@@ -1,4 +1,3 @@
-# Github
 <h1 align="center">Hi there, I'm Rua 👋</h1>
 <p align="center">
   <b>Computer Vision Engineer | Robotics Enthusiast</b>
