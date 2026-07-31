@@ -42,8 +42,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&count_private=true" alt="Rua's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RUAMELHEM&show_icons=true&theme=tokyonight&count_private=true" alt="Rua's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUAMELHEM&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="170" />
 </p>
 
 ---
