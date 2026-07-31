@@ -39,15 +39,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/report/get-badges?username=RUAMELHEM&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/report/top-languages?username=RUAMELHEM&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RUAMELHEM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 <p align="center">
