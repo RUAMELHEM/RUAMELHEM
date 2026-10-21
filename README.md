@@ -12,7 +12,6 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **Computer Vision & Image Processing** projects.
-- 🤖 Passionate about **Robotics, ROS 2, and Autonomous Systems**.
 - 🌱 Always exploring advanced Deep Learning and Machine Learning architectures.
 - 💬 Ask me about **Image Processing, OpenCV, ROS 2, C++, or Python**.
 
